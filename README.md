@@ -1,2 +1,2 @@
 # CTCO001
-CTCO001 - Algoritmos e Estrutura de Dados I
+CTCO01 - Algoritmos e Estrutura de Dados I
